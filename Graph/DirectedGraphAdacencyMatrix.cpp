@@ -1,7 +1,7 @@
 // Program for Directed Graph Adjacency Matrix Representation!
 // This is menu driven program for Directed Graph!
 // User has to enter the choice to do any kind of operation on the Directed Graph!
-// copyright © 2021 Purshottam Kumar (purshottam2001  <--  GithubID)
+// copyright © Purshottam Kumar (purshottamxkumar  <--  GithubID)
 
 #include<bits/stdc++.h>
 using namespace std;
